@@ -9,7 +9,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex items-center gap-3">
           <BookOpenText className="h-7 w-7 text-white/90" strokeWidth={1.5} />
-          <h1 className="text-2xl font-bold text-white/90">Text Summarizer</h1>
+          <h1 className="text-2xl font-bold text-white/90">SummarEase</h1>
         </div>
       </div>
     </header>

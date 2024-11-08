@@ -2,7 +2,6 @@
 'use server';
 
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import pdf from 'pdf-parse/lib/pdf-parse.js';
 import { parseDocument } from './fileUtils';
 
 // Initialize Gemini API

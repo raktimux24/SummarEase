@@ -1,5 +1,4 @@
 // app/lib/fileUtils.ts
-import mammoth from 'mammoth';
 import pdf from 'pdf-parse/lib/pdf-parse.js';
 
 export const validateFile = (file: File) => {
